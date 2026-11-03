@@ -1,8 +1,22 @@
-# Emotion LED Matrix
+# 봄바람 통신 (Spring Breeze Messenger) — Emotion LED Matrix
 
 A speech-reactive LED media art piece. You speak into a laptop microphone, a Korean emotion classifier picks one of 60 emotions, and a 70 × 18 LED matrix responds with a wave whose color and motion match that emotion.
 
-Solo project, Winter 2025.
+Solo project, built in Winter 2025.
+
+## Exhibition
+
+Shown at **DGroid Media Art Special Exhibition "봄, 새로운 시작" (Spring, A New Beginning)**, DGIST, March 5–31, 2026. ([exhibition page](https://curation.dgist.ac.kr/curation/p/FQLM042a2mMgsN))
+
+> 바람에게 말을 걸면, 전해드립니다.
+> 눈치가 빠른 바람이니 속내를 들키지 않게 조심하세요.
+> 봄 들판이 당신의 말로 가득 채워집니다.
+>
+> *Speak to the wind, and it will carry your words.
+> It is a perceptive wind, so be careful not to give your feelings away.
+> The spring field fills with your words.*
+
+The idle background is a field of spring greens. Each spoken sentence sweeps across it as a wind in the color of its emotion and leaves a fading trace behind, so the field gradually fills with what visitors have said.
 
 ## How it works
 
